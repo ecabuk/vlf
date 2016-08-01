@@ -1,0 +1,6 @@
+matplotlib==1.4.3
+numpy==1.9.2
+pyalsaaudio==0.8.2
+pyparsing==2.0.3
+pyserial==2.7
+SQLAlchemy==1.0.8

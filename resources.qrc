@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>assets/icons/h.svg</file>
+    <file>assets/icons/v.svg</file>
+    <file>assets/icons/vh.svg</file>
+    <file>assets/icons/analytics_chart_24.png</file>
+    <file>assets/icons/angle_button_24.png</file>
+    <file>assets/icons/copyright_24.png</file>
+    <file>assets/icons/down_arrow_32.png</file>
+    <file>assets/icons/play_button_24.png</file>
+    <file>assets/icons/power_24.png</file>
+    <file>assets/icons/question_mark_24.png</file>
+    <file>assets/icons/round_delete_button_24.png</file>
+    <file>assets/icons/camera_flash_24.png</file>
+    <file>assets/icons/settings_gears_24.png</file>
+    <file>assets/icons/up_arrow_32.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>assets/itu_logo.png</file>
+  </qresource>
+  <qresource prefix="cc">
+    <file>assets/cc/by.svg</file>
+    <file>assets/cc/nc.svg</file>
+    <file>assets/cc/sa.svg</file>
+    <file>assets/cc/cc.svg</file>
+  </qresource>
+</RCC>
